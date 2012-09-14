@@ -1,0 +1,6 @@
+h1. Rails3 + RSpec + Cucumber + Capybara (::Poltergeist) + Devise Example
+
+h2. Brief overview
+
+This is the example application. No logic implemented except only one test. Yet.
+This one shows how one can embedd the gems mentioned into the one application.
